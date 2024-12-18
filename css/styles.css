@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Add some spacing and styling to tables */
+.table-hover tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Responsive tweaks (if any) */
+@media (max-width: 576px) {
+  .form-inline input {
+    margin-bottom: 10px;
+  }
+}
